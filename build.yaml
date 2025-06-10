@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: ebe_left
+    shield: ebe40_left
   - board: nice_nano_v2
-    shield: ebe_right
+    shield: ebe40_right
