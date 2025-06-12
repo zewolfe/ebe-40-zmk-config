@@ -1,5 +1,5 @@
 config SHIELD_EBE_LEFT
-    def_bool $(shields_list_contains,ebe_left)
+    def_bool $(shields_list_contains,ebe40_left)
 
 config SHIELD_EBE_RIGHT
-    def_bool $(shields_list_contains,ebe_right)
+    def_bool $(shields_list_contains,ebe40_right)
