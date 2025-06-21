@@ -1,0 +1,11 @@
+file_format: "1"
+id: ebe40
+name: Ebe40
+type: shield
+url: https://github.com/zewolfe/ebe40
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - ebe40_left
+  - ebe40_right
